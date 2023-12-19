@@ -1,0 +1,7 @@
+Stuff to be edited later on:
+1. Table of contents and headings 
+2. Figure annotations 
+3. Ensure that correct references are made on views and subsections. So that consistency occurs when refering to views and subsections
+4. Read through Processing business processes overview in User Interface section so see whether the overview is consistent with the walkthorugh. 
+5. Ask Karen for a Dealer code that can output remittance in the Dealer management view to see how the datafields are made. 
+6. Ask Karen for a valid Screenshot of a working Remittance Group Output in the cashbook of the dealers. 

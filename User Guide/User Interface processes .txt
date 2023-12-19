@@ -1,0 +1,32 @@
+User Interface processes 
+mport data
+	◦	Import dealer - dealer infortmation of specific import accounts. Shows an output display when import is done. 
+	◦	Import Account - works the same as Import Dealer 
+	◦	Import details- einde van die maand datum for current month. It is a interval between the two 
+	◦	Import settings can skip
+Processing 
+	◦	Dealer management:
+Transactions: transactions of the specific dealer imported. Paid column is to indicate what is to be paid. 
+Remittance : remittance for each dealer 
+RDA claims:  Claim that is being done. 
+Variance : optional, difference between previous and current import. 
+Previously ticked: What transactions have been ticked for reporting features. 
+	◦	Cashbook: all remittances from different Dealers. Dealer to expert remittances. Submit all will submit ticked remittances. Process button will write to acumatica.
+	◦	Suppliers Management 
+Works the same as dealer management 
+	◦	Cashbook works the same as previous cashbook 
+	◦	Invoice batching: leave out
+	◦	Claims management: supplier to dealer 
+	◦	Adjustments
+Dealers: all adjustments like discounts, advertisement adjustments. Insert will prompt adjustment input window. 
+	◦	Cashflow: bank statements that were imported. 
+	◦	Housekeeping
+Admin: accounts for suppliers and dealers and dealer accounts. Locking is where the system is locked for dealers and suppliers and remiitances etc cannot be added 
+Supplier account codes: all account codes 
+Adjustment codes: all adjustment codes for dealers and suppliers
+Access control: all access control for different users. Viewing rights. 
+Invoice comments: comment for dealer management for invoice comments
+Claim reasons: just reasons for dealers and suppliers 
+Template: suppliers details and rebates can be edited 
+Top dealers and suppliers are not used anymore 
+Enquiries are all reporting features.
