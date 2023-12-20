@@ -5,3 +5,10 @@ Stuff to be edited later on:
 4. Read through Processing business processes overview in User Interface section so see whether the overview is consistent with the walkthorugh. 
 5. Ask Karen for a Dealer code that can output remittance in the Dealer management view to see how the datafields are made. 
 6. Ask Karen for a valid Screenshot of a working Remittance Group Output in the cashbook of the dealers. 
+7. Ask Karen for a valid Supplier to show data records in Transactions in Supplier Management. 
+8. Add definitions for each data column in the different tables in each view to give understanding to which data is displayed.
+9. Ensure naming conventions are correct when referring to different views in the User Interface part of the User Guide. 
+10. Ask Karen for valid Dealer-Supplier and time period for Claims Management view.
+11. Ask karen for valid Dealer in Claims adjustments view. 
+12. Add Dealer Adjustment output table to Adjustment view. At the bottom. 
+13. Ask Karen for valid Dealer and Suppliers to show ouput in History Adjustments view. 
