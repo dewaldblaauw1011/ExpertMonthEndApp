@@ -12,3 +12,8 @@ Stuff to be edited later on:
 11. Ask karen for valid Dealer in Claims adjustments view. 
 12. Add Dealer Adjustment output table to Adjustment view. At the bottom. 
 13. Ask Karen for valid Dealer and Suppliers to show ouput in History Adjustments view. 
+14. Ensure that there are Overviews of all the main views in the month end app. 
+15. Ask Karen for a valid locking relation on the Locking view in Admin section. 
+16. Make snapshots more neat and seperable from each other. 
+17. Ask Karen for a valid dealer and supplier in the Locking view inside of Admin view. 
+
