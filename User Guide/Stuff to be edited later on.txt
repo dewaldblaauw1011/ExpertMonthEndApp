@@ -16,4 +16,7 @@ Stuff to be edited later on:
 15. Ask Karen for a valid locking relation on the Locking view in Admin section. 
 16. Make snapshots more neat and seperable from each other. 
 17. Ask Karen for a valid dealer and supplier in the Locking view inside of Admin view. 
+18. Change subview naming conventions to Tabs instead. 
+19. Ensure all button functionality has been mentioned
+20. Change structure of repetive word use throughout doc. 
 
