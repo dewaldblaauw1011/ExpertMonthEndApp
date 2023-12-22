@@ -19,4 +19,5 @@ Stuff to be edited later on:
 18. Change subview naming conventions to Tabs instead. 
 19. Ensure all button functionality has been mentioned
 20. Change structure of repetive word use throughout doc. 
-
+21. Fix tab orders. 
+22. Vra vir hennie oor die Synlist error wat oppop met generation of reports by Enquiries. 
