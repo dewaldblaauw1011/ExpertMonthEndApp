@@ -21,3 +21,4 @@ Stuff to be edited later on:
 20. Change structure of repetive word use throughout doc. 
 21. Fix tab orders. 
 22. Vra vir hennie oor die Synlist error wat oppop met generation of reports by Enquiries. 
+23. Ask Karen what does ISSP mean in Cashbook tab in enquiries. 
